@@ -1,0 +1,11 @@
+openvino
+optimum
+optimum.intel
+transformers
+requests
+gradio
+huggingface_hub
+flask
+flask_cors
+onnx==1.16.1
+python-doctr[torch,viz,html,contrib]
